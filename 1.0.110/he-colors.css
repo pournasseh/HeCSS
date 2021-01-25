@@ -1,0 +1,44 @@
+:root {
+    --he_black: black; 
+    --he_white: white; 
+    --he_gray: gray; 
+    --he_silver: silver; 
+    --he_linen: linen;
+    --he_red: red;
+    --he_firebrick: firebrick;
+    --he_darkred: darkred;
+    --he_orange: orange;
+    --he_khaki: khaki;
+    --he_darkkhaki: darkkhaki;
+    --he_gold: gold;
+    --he_peach: peachpuff;
+    --he_yellow: yellow;
+    --he_green: forestgreen;
+    --he_lime: lime;
+    --he_seagreen: mediumseagreen;
+    --he_lightgreen: lightgreen;
+    --he_brown: saddlebrown;
+    --he_rebeccapurple: rebeccapurple;
+    --he_purple: purple;
+    --he_blueviolet: blueviolet;
+    --he_magenta: magenta;
+    --he_orchid: orchid;
+    --he_pink: pink;
+    --he_cyan: cyan;
+    --he_lightcyan: lightcyan;
+    --he_turquoise: turquoise;
+    --he_blue: blue;
+    --he_lightskyblue: lightskyblue;
+    --he_deepskyblue: deepskyblue;
+    --he_dodgerblue: dodgerblue;
+    --he_darkblue: DarkBlue;
+    --he_teal: teal;
+}
+[data-theme="dark"] {
+    --he_black: hsl(0,0%,100%);
+    --he_white: hsl(0,0%,0%);
+    --he_gray: hsl(0,0%,75%);
+    --he_silver: hsl(0,0%,27%);
+    --he_linen: hsl(30,3%,27%);
+    --he_darkblue: hsl(210,50%,33%);
+}
